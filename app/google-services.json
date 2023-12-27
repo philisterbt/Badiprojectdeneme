@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778989247485",
+    "project_id": "badiproject-95511",
+    "storage_bucket": "badiproject-95511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778989247485:android:9e443676f8fc2fdc81d794",
+        "android_client_info": {
+          "package_name": "com.example.badiproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo8uiR9_XqneXYdrwACvE8iT50aIrB7OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
